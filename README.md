@@ -15,4 +15,4 @@ your-obcihub-dir > python app --simulator
 
 Then you can run the openframeworks app. When you press `ENTER` it will use the RESTful API of the Hub to start the OSC stream. You should see activity similar to the screenshot below
 
-![](https://github.com/github/training-kit/blob/master/images/professortocat.png)
+![](https://github.com/dgoodwin208/OpenBCIHub_ofxExample/blob/master/screenshot.png)
